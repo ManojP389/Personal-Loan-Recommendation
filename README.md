@@ -1,4 +1,4 @@
-# Banking-Agent-POC: AI-Powered Loan Underwriting System
+# Banking-Agent-POC: Personal loan recomendation System
 
 An AI-powered loan origination and underwriting proof of concept. Built with Streamlit, Pandas, Plotly, and LangChain, the application processes loan application parameters, generates credit scores and risk ratings, recommends interest terms, compiles amortization tables, and uses Groq's `openai/gpt-oss-20b` model to generate committee summaries.
 
@@ -129,5 +129,4 @@ If this directory already has a Git remote, keep it and use its URL rather than 
 
 ## Author
 
-**Satya**  
-GitHub: [programmingxpert](https://github.com/programmingxpert/)
+**Manoj Kumar**  
