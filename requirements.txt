@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+langchain
+langchain-groq
+python-dotenv
+jinja2
+reportlab
+pandas
+plotly

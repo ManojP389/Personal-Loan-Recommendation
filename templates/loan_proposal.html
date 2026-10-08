@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Proposal</title>
+</head>
+<body>
+    <h1>Loan Proposal for {{ data.name }}</h1>
+    <ul>
+        <li>Age: {{ data.age }}</li>
+        <li>Income: {{ data.income }}</li>
+        <li>Requested Amount: {{ data.amount }}</li>
+        <li>Purpose: {{ data.purpose }}</li>
+        <li>Credit Score: {{ data.credit_score }}</li>
+        <li>Risk Level: {{ data.risk }}</li>
+        <li>Interest Rate: {{ data.offer.rate }}%</li>
+        <li>Tenure: {{ data.offer.tenure_years }} years</li>
+    </ul>
+    <p>Thank you for choosing our bank. We look forward to serving you.</p>
+</body>
+</html>
